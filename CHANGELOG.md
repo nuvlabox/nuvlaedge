@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.18.1](https://github.com/nuvlaedge/nuvlaedge/compare/2.18.0...2.18.1) (2025-02-06)
+
+
+### Bug Fixes
+
+* **kubernetes:** place job on the node along with NE when NE DB is needed by the job ([#238](https://github.com/nuvlaedge/nuvlaedge/issues/238)) ([d9058fc](https://github.com/nuvlaedge/nuvlaedge/commit/d9058fc5ea02a3f3d378f4f12764a6c586cff327))
+
+
+### Code Refactoring
+
+* **telemetry:** refactor monitors and telemetry coordination ([#229](https://github.com/nuvlaedge/nuvlaedge/issues/229)) ([5d8605a](https://github.com/nuvlaedge/nuvlaedge/commit/5d8605af12f57635879d8cec8cf39b02ff2c0963))
+
 ## [2.18.0](https://github.com/nuvlaedge/nuvlaedge/compare/2.17.1...2.18.0) (2024-12-20)
 
 
